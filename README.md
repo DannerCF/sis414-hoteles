@@ -4,6 +4,12 @@ Spring Boot, Spring Data JPA, PostgreSQL y Swagger. Java 21.
 
 Hotel: id (Long, generado), nombre (String), ciudad (String), habitaciones (Integer), categoria (Integer).
 
+## Enlaces de entrega
+
+- [Codigo en GitHub](https://github.com/DannerCF/sis414-hoteles)
+- [Swagger en Render](https://sis414-hoteles.onrender.com/swagger-ui/index.html)
+- [Listado de hoteles](https://sis414-hoteles.onrender.com/api/hoteles)
+
 ## Endpoints
 
 | Metodo | Ruta | Resultado |
